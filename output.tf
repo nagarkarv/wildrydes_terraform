@@ -1,7 +1,6 @@
-#------------------------------------------------------------------------------------
-# Outputs: Values from the 3 outputs should be copied to relevant varaibles in config.js
-# dev-sandbox\wildrydes_serverless\src_webapp\js\config.js
-#-------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------
+# Outputs: Values from the 3 outputs should be copied to relevant varaibles in src_webapp\js\config.js
+#-----------------------------------------------------------------------------------------------------
 
 # userPoolId
 output "user_pool_id" {

@@ -70,7 +70,7 @@ lambda_base_url = https://1lcyeokpe6.execute-api.eu-west-2.amazonaws.com/Test
 user_pool_client_id = 4mkt3h62iq79628019d7r41787
 user_pool_id = eu-west-2_A4HfohzmL
 ```
- Update the values in `config.js`
+ Update the values in `src_webapp\js\config.js`
 
 ```javascript
 window._config = {
